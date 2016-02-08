@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<question type="matching">
+	<name>
+		<text>Demo question d'appariement :)</text>
+	</name>
+	<questiontext format="html">
+		<text>Qui est le meilleur ?</text>
+	</questiontext>
+	<penalty>1</penalty>
+	<defaultgrade>1</defaultgrade>
+	<subquestion>
+		<text>Le chat est le meilleur</text>
+		<answer>
+			<text>Oui bien sûr</text>
+		</answer>
+	</subquestion>
+	<subquestion>
+		<text>Le poney est le meilleur</text>
+		<answer>
+			<text>Oui bien sûr</text>
+		</answer>
+	</subquestion>
+	<shuffleanswers>true
+</question> 
+ 
